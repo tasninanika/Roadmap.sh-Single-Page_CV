@@ -5,11 +5,13 @@ body{
 }
 
 header{
-    margin: 80px;
+    margin-top: 80px;
+    margin-left: 80px;
 }
 
 main{
-    margin: 80px;
+    margin-left: 80px;
+    margin-bottom: 80px;
 }
 
 hr{
@@ -46,4 +48,5 @@ li{
 a{
     text-decoration: none;
     color: rgb(130, 130, 212);
+    font-size: 20px;
 }
