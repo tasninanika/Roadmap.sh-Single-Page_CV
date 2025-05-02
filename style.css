@@ -16,3 +16,8 @@ h1{
 h2{
     color: green;
 }
+
+address{
+    font-style: normal;
+    font-size: 20px;
+}
