@@ -22,11 +22,11 @@ address{
     font-size: 20px;
 }
 
-.skill-section{
-    padding: 20px 0px;
+section{
+    margin-top: 40px;
 }
 
-.skills{
+.section-details{
     font-size: 20px;
 }
 
